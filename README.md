@@ -29,5 +29,3 @@ Understanding the core concepts of Active Directory, domains, and authentication
 Troubleshooting domain join failures and network connectivity problems
 
 Gaining insight into how centralized authentication is managed in enterprise networks
-
-#ActiveDirectory #WindowsServer2025 #Networking #SystemAdministration #Virtualization #CyberSecurity #NetworkEngineer
